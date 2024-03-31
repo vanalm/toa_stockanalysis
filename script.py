@@ -110,7 +110,7 @@ task_evaluate_stocks = Task(
     description="""Review the analysis provided by the Analyst to determine the investment potential of each penny stock. 
     Assess the risks and opportunities, market conditions, and projected growth to make informed investment recommendations.""",
     agent=evaluator,
-    expected_output="a detailed investment report outlining the potential risks and opportunities of each penny stock,"
+    expected_output="a detailed investment report outlining the potential risks and opportunities of the company in question. provide a recommendation on whether to invest in the stock or not, with supporting evidence and analysis."
 )
 
 # Instantiate the Crew
