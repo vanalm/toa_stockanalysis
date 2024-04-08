@@ -1,0 +1,55 @@
+This is an overview of the structure of the exmaple dpitch (from gpt4 promped with the pitch )
+
+Information Required and Sources
+Company Overview
+
+Name and ticker symbol
+Current share price and currency
+Fully-diluted shares outstanding
+Market capitalization
+Net cash position
+Business description
+Source: Company's financial reports, stock market listing details, and official website
+Financial Metrics
+
+Revenue growth rate
+EBITDA margin
+Net income
+Source: Company's financial statements, earnings reports
+Business Segments
+
+Description of each segment
+Revenue contribution and growth prospects of each segment
+Source: Company's segment reports, investor presentations
+Strategic Initiatives and Catalysts
+
+Key projects or products
+Expansion plans
+Market trends benefiting the company
+Source: Company's press releases, strategic plan documents, industry reports
+Competitive Landscape
+
+Main competitors and their market position
+Company’s competitive advantage
+Source: Market research reports, competitor financial statements
+Management and Strategy
+
+Background of key management members
+Strategic direction and goals
+Source: Company's website, executive team presentations
+Valuation and Financial Analysis
+
+Current valuation metrics (e.g., P/E ratio, EBITDA multiple)
+Discounted Cash Flow (DCF) analysis or other valuation models
+Future financial outlook and projections
+Source: Financial modeling based on company’s financial data, analyst reports
+Risks and Considerations
+
+Potential risks and challenges
+Mitigation strategies
+Source: Company's risk disclosures, industry analysis
+Investment Thesis
+
+Summary of why this is a good investment
+Expected return and time frame
+Source: Overall analysis and synthesis of the above data

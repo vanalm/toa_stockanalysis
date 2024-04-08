@@ -1,0 +1,117 @@
+the following is from https://community.microcapclub.com/topic/3940-applicant-idea-example/#comment-83490 
+
+
+
+ This example is an investment thesis that received approval by our members in June 2023. 
+
+4C Group AB 
+
+Ticker: 4C.ST
+
+Price: SEK 31.95 (USD 2.98) 
+
+Fully-diluted Shares Outstanding: 36.7 million
+
+Market Cap: SEK 1.2 billion (USD 110 million)
+
+Net Cash: SEK 54 million
+
+big.chart?nosettings=1&symb=SE:4C&uf=0&t
+
+Summary
+
+4C Group AB is a fast-growing, profitable software company in an emerging niche - organizational resilience - with a clear pathway to higher recurring revenue and multiple expansion. 4C provides software solutions and expert consulting services to defense, corporate and public customers. It is a Swedish company and IPO’d on the Nasdaq First Norther Premier Growth Market in May 2022. I have spoken to management twice, including in-person at their HQ in Stockholm, and have demoed their corporate and climate resilience software solutions. Despite revenues projected to grow 20% annually, an EBIT margin that has grown from single digits to double digits in the past few years, and software revenues growing as a % of the overall business, the company still trades at 11x my estimate of CY2023 EBITDA. 
+
+The company is targeting 50% sales growth in their corporate segment which the market does not seem to be pricing in. The recent release of 4C’s climate resilience solution is well-timed to take advantage the EU’s recent Corporate Sustainability Reporting Directive which requires European companies to report metrics regarding their environmental impact and their future plans for progress in sustainability. Many companies are currently using 3rd party experts, Excel sheets and quick calculators to do what little sustainability reporting is necessary to remain compliant with past regulations, but compliance is becoming stricter. I believe this trend benefits 4C’s climate reporting and tracking software and should help accelerate their corporate sales. 4C’s corporate segment currently accounts for less than 15% of sales but they have major enterprise customers such as J.P. Morgan, Shell & Verizon, who were all won without having a sales team in the United States. Now 4C is establishing a US-based sales team which should drive increased growth in the corporate segment in the US. 
+
+While corporate sales should be the most important growth driver going forward, 4C’s defense segment has been the largest contributor to growth and profitability the past few years. It is still growing and later this year 4C should sign long-term framework agreements with the US Army. This will allow 4C to convert their current license software revenues with the military to recurring revenue. 4C is currently a subcontractor to the US Army, but if you dig a little deeper you learn that the Army’s relationship with 4C is much stronger than that of the average subcontractor. 
+
+The market is not pricing in much growth in the corporate segment, despite the industry growth trends towards greater compliance, reporting and data tracking, I have a 12-month target price of SEK 54 a share, or a 70% return from current prices, or about 19x  2023 EBITDA. If 4C executes on its corporate growth targets, then according to my DCF model, 4C shares could be a multi-bagger by 2026.
+
+ 
+
+Company Overview: What Does 4C Do?
+
+The company operates in three segments: defense, public and corporate. I will focus on the defense & corporate segments as 4C is not focused on growing their lower-margin public segment. 
+
+Defense
+
+4C partnered with the Swedish Armed Forces in 2001 to launch Exonaut, a digitalized solution for military training management. The software tracks whether training is done according to standards established by countries and organizations around the world, such as the US and NATO. It also records and analyzes the training data to make training of soldiers more efficient. Since developing Exonaut for the Swedish Armed Forces, 4C has won contracts with the UK Armed Forces, NATO and, most importantly, with the US Army and Marines. They often develop solutions along with new customers, but 4C owns the IP and frequently adds the new functionalities to their software suite for other customers. 
+
+4C expects defense revenues to grow 10-15% a year. As the segment is nearly all software revenue and software-services, with little-to-no consulting revenue, growth is highly profitable. We can see the profitability by looking at the past results of the company. Between 2019 and 2022, 4C’s defense revenues more than doubled, growing software revenues from 45% to nearly 65% of total revenues, propelling EBIT margins from 5% to into the double digits.
+
+4C expects to receive additional facility clearance in the US this year, which should be a strong catalyst for winning projects that require access to classified data. 
+
+Corporate
+
+In a recent earnings call, management called the corporate segment 4C’s biggest growth driver going forward. The corporate segment is only 14% of current revenues, but management expects it to become 50% of 4C’s sales by 2027. I expect their new US-based sales team, combined with their recent climate resilience product within the corporate software suite, to help 4C hit its target. In the first ten years of the company’s existence, 4C funded its software development by selling consultancies to corporate customers and running price exercises for the private sector. Since then, they’ve developed a corporate version of Exonaut which helps companies track regulatory and reporting requirements. A large number of 4C’s current corporate customers are financial services companies, such as J.P. Morgan and SEB, where strict compliance has to be maintained. Other customers in a variety of sectors include Shell, Verizon, Nationwide, Aviva, the Copenhagen Airport and more. 
+
+Exonaut’s dashboard is not just a checklist, however. I recently demoed the corporate product with a managing director and a Nordics sales director and they really emphasized the software’s crisis preparedness & management capabilities. Many companies don’t initially intend to subscribe to Exonaut. Customers hire 4C’s consultants instead to determine potential operational and financial risks in their business. These risks could be anything from weather events to malware. But after this preliminary work is done, the consultants help sell Exonaut to the customer. The consultants help set up the software and integrate it with other third-party software and data feeds the customers may have. The software then uses this data to allow users to monitor the severity of the risks that the consultants were originally hired to assess. Sales are and will continue to be a mix of consulting and software.
+
+ 
+
+Catalysts
+
+Corporate
+
+Sales to corporate clients are nearly 15% of 4C’s current revenues but 4C’s target is for it to compose 50% of total sales by 2027. This implies an astonishing sales growth in the segment of over 50% a year. How will they achieve this target? What gives management confidence enough to target 50%+ growth for multiple years?
+
+4C has, until now, not had a sales team for corporate sales in the United States. They have done no outreach in the US nor any marketing on Google in the States. However, they still have large, famous companies as customers. Some of these customers reached out unprompted to 4C for a demo. Shell, for example, contacted 4C, not the other way around. Verizon was another case of inbound interest. It is generally a good sign when multi-billion dollar companies want to work with a company that isn’t spending capital on marketing to them. This demonstrates strong potential for 4C’s corporate solution especially as they now ramp up their sales team in the US. I asked management why Verizon chose to work with 4C. They told me 4C had a software capability Verizon was specifically looking for that competitors didn’t have. This speaks to the strength and breadth of 4C’s product. 
+
+I also think 4C is building the sales team in North America in a smart and strategic way. First, they are transferring some of their personnel from Europe to the US. This allows 4C to port its company culture and practices to the new sales team. It also guarantees they have people well-versed in the product from day one. 4C did this in 2016 when they entering the defense industry in the US which has been a strong success. They are also leveraging their existing customer support presence in Orlando which is already in place to support the US military. This will help more of the corporate sales team in the US focus on sales to new customers.
+
+Climate
+
+The catalyst that interests me most is their climate solution, now fully integrated with 4C’s software suite. The software helps companies monitor and visualize their progress on sustainability and environmental compliance requirements. This allows 4C to take advantage of the growing trend of sustainability reporting. Take, for example, the EU’s recent Corporate Sustainability Reporting Directive (CSRD) which starting in 2024 requires large enterprises to provide sustainability reports. By 2029, over 50,000 companies ranging from smid to large enterprises will have to follow these guidelines. The requirements extend even to companies with European subsidiaries. Many of these companies will need software to make sure they are checking the boxes in-line with regulations. 4C’s new climate sustainability software, with its heritage in financial compliance, is a perfect fit for the new trend in sustainability compliance. However, 4C’s climate solution is not just a “legislative reporting checklist” – it also uses tools developed in the standard corporate solution for climate-based crisis management and finance-based resilience. For example, their crisis management software was the reason Verizon chose 4C. It allowed them to keep track of extreme weather events near their Florida center. 4C has just started demoing the climate solution to their current customers and recently presented the software at a large ESG conference in London. Climate regulations and reporting are only going to become more important. 4C’s prepared to take advantage of this secular growth trend and it should attract new customers to the company. 
+
+Defense
+
+Even though the corporate segment should be 4C’s fastest growth segment with clear catalysts, there is no reason why defense revenues will stagnate. To the contrary, management expects defense revenues to grow between 10-15% a year. 4C expects to receive facility clearance with the US government this year which will allow them to win more classified contracts and will decrease 4C’s reliance on commercial partners for access to the classified data. It has taken time for 4C to prepare itself for facility clearance. Their defense business in the US is a pure North American business, with a separate board from 4C with board members cleared by the US government. 
+
+4C’s current contracts with the US Army are for individual training projects; it is not one contract with the entire army. There are opportunities to win more. Some of their current contracts are up for extension this year, and with facility clearance 4C expects to sign longer deployment contracts which will allow them report the software revenues as recurring revenue. Currently, the US Army and the Marines have contracts with 4C where they buy licenses to 4C’s software at intervals according to the contract. 4C does not include this high-margin software revenues as part of ARR. However, with the longer deployment contracts they expect to sign this year, much of this revenue will be recognized on their statements as recurring. Expect recurring revenues to have a steep increase in the next 12 months, though overall revenues may be volatile with signing bonuses. When 4C grows their ARR as a result, new investors may give the company a closer look and could assign the company a larger multiple.  
+
+ 
+
+Competition 
+
+4C’s primary competitors on the corporate segment are Everbridge ($EVBG), Noggin & F24. Everbridge is known for their mass notification alert system but in recent years they’ve set big targets for their critical event management software as a growth area for their business. They’ve made acquisitions to build a more comprehensive software suite. I am confident 4C’s crisis management software can compete with Everbridge’s. Exonaut is also an end-to-end solution, developed in-house, and 4C is continuously adding new functionalities such as the new climate resilience solution. When Verizon reached out to 4C about their crisis management software, Verizon was already a customer of Everbridge and clearly felt 4C’s software had functionality that wasn’t covered by Everbridge’s suite.  
+
+4C, contrary to F24, Noggin and Everbridge’s strategies, also believes the consulting part of the business is integral to the value of the service they provide. The consultants help sell the software to the customers and help customize it for them. Some 4C customers aren’t initally tracking regulatory and sustainability requirements according to strict international standards. They hire 4C’s consultants to get them onto the right track and eventually they become “mature” enough to purchase and make best use of the Exonaut software. Without the consultants, it would be more difficult for 4C to attract these customers and more difficult to keep them if they weren’t getting full use out of the software. While many investors may like the margins that come with the pure SaaS model, there are many advantages to having 4C’s hybrid business. At the moment, perhaps software investors are more likely to overlook 4C because it is not a pure software business. But if 4C can generate strong growth while maintaining or growing profitability, the same investors may return later to look closer at the company. 
+
+4C partners with the prime contractors in multiple defense projects. The primes, such as CESI, Cubic and Bae Systems, General Dynamics and Lockheed Martin, will only look out for themselves. 
+
+4C originally worked directly with the Army, but in very large projects they act as a subcontractor. In their largest project with the Army, 4C currently works with Cole Engineering (CESI) who is the prime contractor. This initially concerned me – is 4C’s relationship with the Army weak? What would happen if the Army switched primes– would 4C lose this key contract? I asked management about this; they provided an anecdote which not only alleviated my concern but actually strengthened my conviction in the business. The Army originally let 8 consortiums bid for that project, including Microsoft, CESI and others. In advance of the bidding, the Army recommended to all these primes that they should use Exonaut as the training software. Only one of the consortiums didn’t choose to partner with Exonaut, and that consortium was kicked out of bidding in the first round. This shows 4C is not reliant on any prime contractor for its relationship with the Army. 
+
+4C knows the primes would prefer to replace them with an in-house solution if they could (but developing one is very difficult). This is why 4C wants facility clearances and framework agreements with militaries around the world. With these agreements, 4C can become less reliant on the prime contractors and will have greater access to classified data without relying on primes in the larger contracts.
+
+ 
+
+Valuation 
+
+With strong growth in defense expected later this year, corporate sales starting to ramp and operating leverage expected after 4C’s heightened investments last year, I expect profitability to grow to high teens EBIT margins this year, near SEK 70 million of EBIT and SEK 100 million of EBITDA. At 17x EBITDA (no adjustments) or 25x EBIT, which is very reasonable for a software company growing 20%+, 4C would be valued at SEK 52 a share. 
+
+Using a DCF method, if we model defense and corporate revenues growing at a CAGR of 12% and 35% respectively between 2023 and 2029 and conservatively model the software-expert services mix to be relatively unchanged, my model predicts EBIT to grow to SEK 291 million in 2029. Assuming 12% CAGR in EBIT growth rate between 2029 and 2032, continued growth in NWC, growing capitalized software development as the company grows, a terminal growth rate of 2% and a WACC of 10%, and including the 2.8m of warrants in the share count, results in a valuation for 4C of SEK 53.93 a share, an 69% return from the stock’s current price. 
+
+If the company executes on their targets, the company can become a multi-bagger. If you start the DCF in 2026, assuming the company delivers results as modeled between now and then, and you add in three additional years of only 10% annual growth in EBIT, 4C shares would then be worth SEK84.39, or 164% return for current investors.   
+
+image.png
+
+Again, this conservatively assumes that the software-expert services mix does not rise. If software grows as a % of sales in the medium-and-long term, as management expects, EBIT margins should grow even higher. This model assumes, as a base case, that corporate sales do not exceed 50% of sales. However, with nearly all European enterprises soon needing to track and report sustainability metrics and with 4C’s climate resilience software one of the few software products out on the market to aid companies with this, there is upside to the growth in the corporate segment.  
+
+The corporate segment represents a large amount of upside, connected to real trends that are actually happening, but it’s not priced in to 4C’s stock currently. If sales to corporate segment only grows at a 20% annual growth rate, with the defense segment growing between 10-15% a year, the company should still generate an EBIT of 80 mSEK or 115 mSEK in EBITDA in 2025. With a current share price of SEK 31.96, that currently values the company at 13.5x  2025 EBIT, or 9.5x EBITDA in the downside scenario. As such, the current share price does not seem to be pricing in 4C’s targeted growth in the corporate segment. With the growth in sustainability reporting and 4C’s newly established sales team in the US, I believe that undervalues 4C’s current shares. 
+
+ 
+
+Risks
+
+The company expects very strong growth in their corporate segment. I believe between their new sales team and the climate resilience product there is good reason for investors to have high expectations, but there is always the risk that the sales team in the US takes time to ramp up. It can be difficult to find good salespeople and even salespeople who don’t immediately generate value have to be given time to prove themselves. Software companies have strong gross margins, but often have to spend large amounts of SG&A to win and retain customers. When I spoke to CEO Magnus Bergqvist (the most Nordic name in the world), he seemed very conscious of the potential difficulties in hiring and keeping the right employees, especially in a higher wage market such as the US. Before joining 4C, he was VP at SAP’s Nordics division and is very aware of the pitfalls of the business. In my conversations with him, Magnus clearly outlined the concerns involved and how he is trying to mitigate them. This gives me confidence that he will make good decisions, but I acknowledge risk is still present. 
+
+Additionally, even if the corporate segment grows at 50% a year, the mix between software and consulting revenues is important too. Profitability will be very different depending on the mix. Again, Magnus seems very cognizant of this. He has clearly stated he wants the total business mix to remain close to 60-70% software sales. Magnus is also thinking of strategies for finding partners on the expert services side, and he’s also pursuing customers that are in greater need of software than expertise.  Some larger customers may never even hire the consultants and use the software solely instead. Shell, for example, has in-house experts of their own, so they do not generate much consulting revenue for 4C. Shell does use the Exonaut software for training and exercise management for their oil rigs. These kinds of customers are highly profitable for 4C.
+
+4C’s management is very confident they will receive additional facility clearance this year with the US military. If they do not receive this clearance, it will call into question management’s ability to forecast their defense customers’ decisions. 
+
+ 
+
+Conclusion
+
+Since IPOing in 2022, 4C Group AB has not attracted much attention. That’s not a shocker – it’s a micro-cap in the Nordics with a chunk of expert consulting revenues, ARR that doesn’t include most of their software sales, and management is targeting fast growth in a segment that’s only 15% of their current sales. However, the newly released climate resilience software product is well-suited to benefit from a very real, accelerating and lasting trend, and the company is making the investments into a US corporate sales team to make sure they are prepared to take advantage of it. Once 4C signs the framework agreements later this year with the US military, more of the software sales will be recognized as ARR. The company has made many of the right steps and the market hasn’t given them credit for it. If they execute and continue to grow corporate sales by 40-50%, they could very well be a multi-bagger in the next couple years, and in a scenario where the corporate segment isn’t as successful, their software-heavy, high margin defense sales would result in margins rising higher than expected due to the mix.   
